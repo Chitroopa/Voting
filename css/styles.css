@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+}
+.can-vote {
+  display: none;
+}
+.minors {
+  display: none;
+}
